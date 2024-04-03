@@ -46,9 +46,9 @@ CVE-2021-43956,crucible,JS,https://github.com/advisories/GHSA-9p4g-cjcf-q3x2,sub
 CVE-2021-37504,jquery-file-upload,JS,https://github.com/advisories/GHSA-43x9-7hfv-mxrf,Merged
 CVE-2013-6837,types/jquery.prettyphoto,JS,https://github.com/advisories/GHSA-xc36-3p8q-x8x7,Plugin
 CVE-2013-4383,jquery-countdown,JS,https://github.com/advisories/GHSA-mjh3-g7qw-vgfv,Plugin
-CVE-2013-2022,jplayer,JS,https://github.com/advisories/GHSA-3jcq-cwr7-6332,submitted
+CVE-2013-2022,jplayer,JS,https://github.com/advisories/GHSA-3jcq-cwr7-6332,Non-Vuln
 CVE-2007-2379,jquery,JS,https://github.com/advisories/GHSA-w97x-8w5v-6mh4,submitted
-CVE-2014-6071,jquery,JS,https://github.com/advisories/GHSA-q44p-q588-242q,submitted
+CVE-2014-6071,jquery,JS,https://github.com/advisories/GHSA-q44p-q588-242q,Non-Vuln
 CVE-2020-10960,mediawiki,JS,https://github.com/advisories/GHSA-pfm2-mqwj-ggm5,Merged
 CVE-2023-3775,github.com/hashicorp/vault,Go,https://github.com/advisories/GHSA-37gg-8xjr-m6x4,submitted
 CVE-2023-3300,github.com/hashicorp/nomad,Go,https://github.com/advisories/GHSA-v5fm-hr72-27hx,Merged
