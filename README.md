@@ -3,6 +3,10 @@
 The source code of VulLibGen is included in `VulLibGen-code` (details in  `VulLibGen-code/ReadMe.md`).
 The dataset of VulLibGen is included in `VulLibGen-dataset` (details in  `VulLibGen-dataset/ReadMe.md`).
 
+The comparison results between VulLibGen and our baselines on Precision, Recall, F1 is included in `prec-rec-f1.csv`
+
+
+
 
 ### Revision Details
 

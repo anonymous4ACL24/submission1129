@@ -1,0 +1,16 @@
+﻿,Java,,JS,,Python,,Go,
+,Raw Output,Local Search,Raw Output,Local Search,Raw Output,Local Search,Raw Output,Local Search
+GPT4 (Local Search),0.744,0.797,0.743,0.768,0.839,0.868,0.624,0.712
+GPT4 (Brute Force Matching),0.744,0.75797777,0.743,0.768,0.839,0.868,0.624,0.69
+Vicuna-13B (Local Search),0.699,0.71,0.77,0.773,0.924,0.935,0.775,0.804
+Vicuna-13B (Brute Force Matching),0.699,0.706,0.77,0.773,0.924,0.935,0.775,0.786
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Improvement,Java,Python,Python,Go,,,,
+GPT4 (Local Search),5.30%,2.50%,2.90%,8.80%,,,,
+GPT4 (Brute Force Matching),1.40%,2.50%,2.90%,6.60%,,,,
+p-value,2.00E-06,,,4.00E-07,,,,
+Vicuna-13B (Local Search),1.10%,0.30%,1.10%,2.90%,,,,
+Vicuna-13B (Brute Force Matching),0.70%,0.30%,1.10%,1.10%,,,,
+,8.00E-02,,,2.00E-04,,,,
